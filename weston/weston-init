@@ -15,9 +15,11 @@ require-input=false
 
 [launcher]
 
-[shell]
+[output]
 name=HDMI-A-1
 mode=1920x1080@30
+
+[shell]
 background-image=/data/wallpapers/wpe/wpe.jpg
 background-color=0xffdddddd
 background-type=scale-crop

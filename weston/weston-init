@@ -16,7 +16,7 @@ require-input=false
 [launcher]
 
 [output]
-name=HDMI-A-1
+name=HDMI-A-2
 mode=1920x1080@30
 
 [shell]

@@ -12,6 +12,7 @@ chmod 0700 /run/weston/xdg_runtime
 cat << IEOF > /weston.ini
 [core]
 require-input=false
+repaint-window=15
 
 [launcher]
 

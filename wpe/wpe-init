@@ -44,7 +44,7 @@ dbus-launch > /run/dbus/env
 export $(cat /run/dbus/env)
 
 # Start browser
-cog-fdo --cookie-jar text:/data ${URL}
+cog-fdo --cookie-jar text:/data/cookies ${URL}
 
 # Start Tohora
 ./tohora 8080 "cog-open"

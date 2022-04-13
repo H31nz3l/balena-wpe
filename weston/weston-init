@@ -21,7 +21,7 @@ name=HDMI-A-2
 mode=1920x1080@60
 
 [shell]
-background-image=/data/wallpapers/wpe/wpe.jpg
+background-image=/data/wallpapers/wpe/pixview_default.jpg
 background-color=0xffdddddd
 background-type=scale-crop
 clock-format=minutes
